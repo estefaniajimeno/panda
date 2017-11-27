@@ -1,0 +1,71 @@
+.header{
+	background-color: #FFA500;
+	text-align: right;
+	color: white;
+	padding-top:5em; 
+	padding-bottom:5em;
+	padding-right: 2em;
+}
+.imagen1 img{
+	width: 100%;
+	height: 20em;
+	border-top:0.8em solid #FFA500;
+	border-bottom: 0.8em solid #FFA500;
+	
+	}
+.aboutPanda{
+	background: #ADFF2F;
+	text-align: center;
+	color: white;
+	padding-left: 13em;
+	padding-right: 13em;
+	padding-top: 3em;
+	height: 14em;
+}
+	.contenido{
+	outline: 1em solid #FFA500;
+	background-color:  #FFA500;
+}
+.imagen2 img {
+	width: 100%;
+	height: 20em;
+	border-top:0.8em solid #FFA500;
+	border-bottom: 0.8em solid #FFA500;	
+}
+.imagenPandas{
+	text-align: center;
+	background-color: #ADFF2F;
+	height: 24em;
+}
+.imagenPandas p{
+	color: white;
+	font-size: 4em;
+	padding-bottom: 1em;
+}
+.a1{
+	outline: 0.5em solid white;
+	margin-right: 3em;
+}
+.a2{
+	outline: 0.5em solid white;
+	margin-right: 3em;
+}
+.a3{
+	outline: 0.5em solid white;
+	margin-right: 3em;
+}
+.a4{
+	outline: 0.5em solid white;
+	margin-right: 3em;
+}
+.ultimaFoto img{
+	width: 100%;
+	height: 20em;
+	border-top:0.8em solid #FFA500;
+	border-bottom: 0.8em solid #FFA500;
+	}
+.footer{
+	background-color: #FFA500;
+	text-align: right;
+	color: white;
+}
